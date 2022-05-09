@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686256
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686257
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 2 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686259
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 3 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686260
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 4 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686261
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 5 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686262
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 6 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686264
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 7 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686265
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 8 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686266
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 9 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686267
 #EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD DE
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/661090
 #EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1  FHD DE
