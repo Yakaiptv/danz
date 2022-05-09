@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694266
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694265
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694267
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/694268
 #EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 FHD IT
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686256
 #EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 HD IT
